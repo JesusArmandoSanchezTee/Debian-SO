@@ -1,4 +1,4 @@
-# SISTEMAS OPERATIVOS - PORTFOLIO
+# SISTEMAS OPERATIVOS - PORTAFOLIO
 ## Sanchez Tee Jesus Armando - 27AV
 
 #### Tarea #998
