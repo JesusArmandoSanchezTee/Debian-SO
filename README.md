@@ -23,3 +23,17 @@
 ![7zmqbq](https://github.com/JesusArmandoSanchezTee/Debian-SO/assets/101674841/9bd2f825-be52-433b-a6c6-20425c843c7c)
 
 ----
+
+### Tarea #992 participar en el hacktoberfest
+
+![image](https://github.com/JesusArmandoSanchezTee/Debian-SO/assets/101674841/3fb2e28d-473f-46a5-a8a6-e78a41d5ebe0)
+
+### Tarea #991 Realizar los rooms de Linux Fundamentals de tryhackme
+
+![image](https://github.com/JesusArmandoSanchezTee/Debian-SO/assets/101674841/dfc7d979-c269-4fea-b1fe-b1aaaa582ab9)
+
+### Tarea #989 Realizar el room de Bash Scripting de TYryHackMe
+
+![image](https://github.com/JesusArmandoSanchezTee/Debian-SO/assets/101674841/473707f5-869d-41ca-b84a-3cb9cc4598fe)
+
+
