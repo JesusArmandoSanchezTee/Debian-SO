@@ -1,6 +1,11 @@
 # SISTEMAS OPERATIVOS - PORTAFOLIO
 ## Sanchez Tee Jesus Armando - 27AV
 
+### Tarea #999 
+https://github.com/JesusArmandoSanchezTee
+
+----
+
 #### Tarea #998
 
 ![debian instalado](https://github.com/JesusArmandoSanchezTee/Debian-SO/assets/101674841/504461ec-a4ba-4ace-bce9-d5799e82abb3)
@@ -29,13 +34,13 @@ https://github.com/JesusArmandoSanchezTee/Debian-SO/tree/main/MenuCompleto
 
 ----
 
-###Tarea #993
+### Tarea #993
 
 https://github.com/JesusArmandoSanchezTee/Debian-SO/blob/main/Bandit.txt
 
 ----
 
-###Tarea #990
+### Tarea #990
 
 https://github.com/JesusArmandoSanchezTee/Debian-SO/tree/main/Jail
 
@@ -53,7 +58,7 @@ https://github.com/JesusArmandoSanchezTee/Debian-SO/tree/main/Jail
 
 ![image](https://github.com/JesusArmandoSanchezTee/Debian-SO/assets/101674841/473707f5-869d-41ca-b84a-3cb9cc4598fe)
 
-###Tarea #988
+### Tarea #988
 
 https://github.com/JesusArmandoSanchezTee/Debian-SO/blob/main/Tarea/Tarea%20%23988.pdf
 
